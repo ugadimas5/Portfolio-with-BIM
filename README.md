@@ -1,10 +1,6 @@
 # BIM with GIS
 
-## Pengantar
-
-Project ini merupakan hasil dari pengembangan tesis saya di Prodi Master Teknik Geomatika, Departemen Teknik Geodesi, Universitas Gadjah Mada.
-
-## Data
+## Introduction
 
 Construction projects require the support of the community and stakeholders to be successful. To communicate new planned developments, it has become increasingly important for city governments to engage with citizens and stakeholders early and give them access to the complex information pertaining to planned buildings and other architectural projects.
 
