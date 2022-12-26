@@ -14,7 +14,7 @@ A 3D web scene representing the city with its buildings, streets, vegetation, an
 
 Based on the analysis of user needs and system requirements, the backend system infrastructure obtained consists of three main components, namely a web server, server side scripting and database. The frontend infrastructure consists of three main components, namely HTML5, CSS and JavaScript.
 
-![](https://github.com/ugadimas25/siriska_apps/blob/main/assets/images/Tesis_Dimas-Backend%20dan%20frontend.png)
+![](https://github.com/ugadimas5/Portfolio-with-BIM/blob/master/Picture/View_1.jpg)
 
 ## Result
 
